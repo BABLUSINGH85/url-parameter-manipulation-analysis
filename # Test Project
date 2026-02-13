@@ -1,0 +1,23 @@
+README.md
+# URL Parameter Manipulation & HTTP Response Analysis
+
+## 📌 Project Overview
+This project documents the analysis of user-controlled URL parameters and HTTP response behavior during authorized security testing.
+
+## 🛠 Tools Used
+- Kali Linux
+- Burp Suite Professional
+- Mozilla Firefox
+
+## 🔎 Key Activities
+- Intercepted HTTP traffic
+- Identified URL parameters
+- Performed controlled parameter modification
+- Analyzed server responses
+- Reviewed security headers (HSTS, CSP)
+
+## 📄 Full Report
+The detailed PDF report is available in this repository.
+
+## ⚖ Ethical Note
+All testing activities were conducted within authorized scope under responsible disclosure guidelines.
